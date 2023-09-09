@@ -1,6 +1,6 @@
 # Introduction to GitHub
 
-aaaThis lesson covers the basics of GitHub, a platform to host and manage changes to your code.
+This lesson covers the basics of GitHub, a platform to host and manage changes to your code.
 
 ![Intro to GitHub](../../sketchnotes/webdev101-github.png)
 
